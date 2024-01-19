@@ -6,7 +6,7 @@ Weather app built using the openWeatherAPI that i made for my first semester pro
 
 2. Sync gradle libraries
 
-3. Navigate to Weather.java and set your [API_key](https://home.openweathermap.org/api_keys) on line 23
+3. Navigate to [Weather.java](AndroidStudioProjects/MyApplication/app/src/main/java/com/example/myapplication/weather/Weather.java) and set your [API_key](https://home.openweathermap.org/api_keys) on line 23
 
 4. Build the project and install
 
